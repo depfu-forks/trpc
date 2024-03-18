@@ -77,7 +77,7 @@
     "next-auth": "^4.22.1",
     "npm-run-all": "^4.1.5",
     "oauth": "^0.10.0",
-    "postcss": "^8.4.14",
+    "postcss": "^8.4.36",
     "prettier": "^2.8.8",
     "runtypes": "^6.6.0",
     "scale-codec": "^0.13.0",
