@@ -61,7 +61,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-turbo": "^1.9.3",
     "eslint-plugin-unicorn": "48.0.1",
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "fast-glob": "^3.2.12",
     "hash-sum": "^2.0.0",
     "lerna": "^7.0.0",
